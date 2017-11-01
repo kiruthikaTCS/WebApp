@@ -137,7 +137,7 @@ body {
   text-align: center;
 }
 .form-module .cta a {
-  color: #333333;
+  color: #33333333;
   text-decoration: none;
 }
 .wlp-login-message-content {
